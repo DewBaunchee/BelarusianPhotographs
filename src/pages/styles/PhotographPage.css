@@ -1,0 +1,73 @@
+.header-container {
+    margin-bottom: 50px;
+}
+
+/* Info */
+.photograph-info-container {
+    padding: 70px 70px 0;
+}
+
+.photograph-info-header {
+    margin-bottom: 30px;
+}
+
+.photograph-info-article {
+    padding: 20px 0 0 20px;
+}
+
+.photograph-info-article-header {
+    margin-bottom: 20px;
+}
+
+.photograph-info-article-birthday {
+    margin-bottom: 20px;
+}
+
+.photograph-info-article-button {
+    background: #FF7A85;
+    padding: 10px 30px;
+    border: 0;
+    border-radius: 24px;
+    font-size: 16px;
+}
+
+.photograph-info-article-button:hover {
+    background: #E25D68;
+}
+
+/* Gallery */
+.gallery-container {
+    padding: 70px 70px 0;
+}
+
+.gallery-container img {
+    height: 100%;
+    width: 100%;
+}
+
+.gallery-button {
+    width: 100%;
+}
+
+.gallery-image-container {
+    margin-top: 21px;
+}
+
+/* Timeline */
+.timeline-container {
+    padding: 70px 70px 0;
+}
+
+/* Map */
+.map-container {
+    padding: 70px 70px 0;
+}
+
+.ymaps {
+    width: 1000px;
+}
+
+/* Video */
+.video-container {
+    padding: 70px;
+}

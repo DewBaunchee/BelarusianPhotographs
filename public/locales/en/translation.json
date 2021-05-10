@@ -1,0 +1,56 @@
+{
+  "photographOfTheDay": "Photograph of the day",
+  "aboutPortalHeader": "Photographs of Belarus",
+  "aboutPortalText": "The largest catalogue of professional photographers in Belarus. You can easily find a professional photographer on our site to suit your requirements.",
+  "aboutPortalTextInputPlaceholder": "Whom are you searching?",
+  "aboutPortalSearchButton": "Search",
+  "photographOfTheDayMoreDetailsButton": "More details",
+  "developersTeamHeader": "Developers team",
+  "searchingHeader": "Whom are you searching?",
+  "searchingTextInputPlaceholder": "Enter name",
+  "searchingButton": "Search",
+  "galleryTitle": "Gallery",
+  "viewAll": "View all",
+  "timelineTitle": "Biography",
+  "workPlaceTitle": "Work place",
+  "videoAboutTitle": "About",
+  "home": "Home",
+  "photographs": "Photographs",
+  "allRightsReserved": "All rights reserved.",
+  "languageDropDown": "Language",
+  "notFound": "Not found",
+
+  "photographsInfo": [
+    {
+      "id": "0",
+      "mainImage": "https://upload.wikimedia.org/wikipedia/commons/3/37/Marina_Batyukova.jpg",
+      "name": "Marina Batyukova",
+      "birthday": "27 august, 1961",
+      "details": "Belarusian artist, photographer. Member of the Belarusian Union of Artists, Belarusian Association of Public Photographers. He specializes in the field of documentary and conceptual photography. The author of the photo project «Sula. Neurvane», which has been exhibited in various countries. The project organically unites the rich centuries-old cultural heritage of Belarus, its folk rites, songs, costumes, on the one hand, and on the one hand, the manifestations of the modern urban environment, the elements of globalization that are rapidly intervening in the modern world.",
+      "gallery": ["https://upload.wikimedia.org/wikipedia/commons/3/37/Marina_Batyukova.jpg"],
+      "map": {
+        "x": "0",
+        "y": "0"
+      },
+      "videoId": "T59c54EmZXE",
+      "timeline": [
+        {
+          "date": "Date",
+          "title": "Title",
+          "paragraphs": [
+            "asd",
+            "dsa"
+          ]
+        },
+        {
+          "date": "Date",
+          "title": "Title",
+          "paragraphs": [
+            "asd",
+            "dsa"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "photographOfTheDay" : "Фотограф дня",
+  "aboutPortalHeader" : "Фотографы Беларуси",
+  "aboutPortalText" : "Самый крупный в Беларуси сайт-каталог профессиональных фотографов. На нашем сайте вы с легкостью найдете фотографа-профессионала под свои требования",
+  "aboutPortalTextInputPlaceholder" : "Кого вы ищете?",
+  "aboutPortalSearchButton" : "Найти",
+  "photographOfTheDayMoreDetailsButton" : "Подробнее",
+  "developersTeamHeader" : "Команда разработчиков",
+  "searchingHeader" : "Кого вы ищете?",
+  "searchingTextInputPlaceholder" : "Введите имя",
+  "searchingButton" : "Найти",
+  "galleryTitle" : "Галерея",
+  "viewAll" : "Смотреть всё",
+  "timelineTitle" : "Биография",
+  "workPlaceTitle" : "Место деятельности",
+  "videoAboutTitle" : "О времени",
+  "home" : "Главная",
+  "photographs" : "Фотографы",
+  "allRightsReserved" : "Все права сохранены.",
+  "languageDropDown" : "Язык",
+  "notFound": "Не найдено"
+}

@@ -1,0 +1,21 @@
+.container {
+    padding: 20px;
+    cursor: pointer;
+    transition: 200ms;
+}
+
+.container:hover {
+    background: #F5F6F7;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.image {
+    max-height: 100%;
+    max-width: 100%;
+    margin-bottom: 10px;
+}
+
+.name {
+    font-size: 20px;
+    margin: 0;
+}

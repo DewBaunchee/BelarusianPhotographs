@@ -1,0 +1,12 @@
+/* Footer */
+.bottom-link {
+    margin: 0;
+    padding: 20px 10px;
+    text-align: center;
+    color: #2B3138;
+    text-decoration: none;
+}
+
+.bottom-link:hover {
+    color: rgba(255, 122, 133, 1.0);
+}
