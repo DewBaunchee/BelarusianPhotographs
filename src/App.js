@@ -7,7 +7,7 @@ import PhotographPage from "./pages/PhotographPage";
 import {CustomNavbar} from "./pages/components/CustomNavbar";
 import CustomFooter from "./pages/components/CustomFooter";
 
-import {BrowserRouter as Router, Switch, Route} from "react-router-dom";
+import {HashRouter, Switch, Route} from "react-router-dom";
 import {useTranslation} from "react-i18next";
 import {Redirect} from "react-router";
 
@@ -29,7 +29,7 @@ const App = () => {
     }
 
     return (
-        <Router>
+        <HashRouter basename={"/"}>
             <div className="main-wrapper-container container-fluid">
                 <div className="content-container container-lg p-0">
 
@@ -52,7 +52,7 @@ const App = () => {
                     <CustomFooter/>
                 </div>
             </div>
-        </Router>
+        </HashRouter>
     );
 }
 
