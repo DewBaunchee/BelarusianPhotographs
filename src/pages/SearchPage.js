@@ -25,11 +25,11 @@ class SearchPage extends Component {
             }
 
             return matchingNames.map((item) =>
-                <Link to={"/photograph/" + item.id} style={{textDecoration: "none", color: "#2B3138"}}>
-                    <Col xl="3" lg="4" md="6" className="photograph-container">
+                <Col xl="3" lg="4" md="6" className="photograph-container">
+                    <Link to={"/photograph/" + item.id} style={{textDecoration: "none", color: "#2B3138"}}>
                         <PhotographPane image={item.mainImage} name={item.name}/>
-                    </Col>
-                </Link>
+                    </Link>
+                </Col>
             );
         }
 
