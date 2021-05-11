@@ -8,6 +8,7 @@ i18next
     .use(Cache)
     .use(initReactI18next)
     .init({
+        loadPath: '/locales/{{lng}}/{{ns}}.json',
         fallbackLng: 'en',
         debug: true,
         returnObjects: true,
