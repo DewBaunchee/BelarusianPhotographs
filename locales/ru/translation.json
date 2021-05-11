@@ -1,0 +1,263 @@
+{
+  "photographOfTheDay" : "Фотограф дня",
+  "aboutPortalHeader" : "Фотографы Беларуси",
+  "aboutPortalText" : "Самый крупный в Беларуси сайт-каталог профессиональных фотографов. На нашем сайте вы с легкостью найдете фотографа-профессионала под свои требования",
+  "aboutPortalTextInputPlaceholder" : "Кого вы ищете?",
+  "aboutPortalSearchButton" : "Найти",
+  "photographOfTheDayMoreDetailsButton" : "Подробнее",
+  "developersTeamHeader" : "Команда разработчиков",
+  "searchingHeader" : "Кого вы ищете?",
+  "searchingTextInputPlaceholder" : "Введите имя",
+  "searchingButton" : "Найти",
+  "galleryTitle" : "Галерея",
+  "viewAll" : "Смотреть всё",
+  "timelineTitle" : "Биография",
+  "workPlaceTitle" : "Место деятельности",
+  "videoAboutTitle" : "О времени",
+  "home" : "Главная",
+  "photographs" : "Фотографы",
+  "allRightsReserved" : "Все права сохранены.",
+  "languageDropDown" : "Язык",
+  "notFound": "Не найдено",
+
+  "photographsInfo": [
+    {
+      "id": "0",
+      "mainImage": "https://upload.wikimedia.org/wikipedia/commons/3/37/Marina_Batyukova.jpg",
+      "name": "Марина Батюкова",
+      "birthday": "27 августа, 1961",
+      "details": "Белорусский художник, фотограф. Член Белорусского союза художников, Белорусской ассоциации общественных фотохудожников. Специализируется в области документальной и концептуальной фотографии. Автор фотопроекта «Sulla. Neurvane», который выставлялся в разных странах. Проект объединяет богатое многовековое культурное наследие Беларуси, ее народные обряды, песни, костюмы, с одной стороны, и, с другой стороны, проявления современной городской среды, стремительно вмешивающиеся в ее элементы глобализации.",
+      "gallery": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/37/Marina_Batyukova.jpg",
+        "https://stat.citydog.by/content/editor_images/2020/07_july/27_22316/05.jpg",
+        "https://stat.citydog.by/content/editor_images/2020/07_july/27_22316/06.jpg",
+        "https://stat.citydog.by/content/editor_images/2020/07_july/27_22316/4.jpg",
+        "https://stat.citydog.by/content/editor_images/2020/07_july/27_22316/03.jpg"
+    ],
+      "map": {
+        "x": "53.902284",
+        "y": "27.561831"
+      },
+      "videoId": "T59c54EmZXE",
+      "timeline": [
+        {
+          "date": "1961",
+          "title": "Место рождения",
+          "paragraphs": [
+            "Born in Minsk, Belarus"
+          ]
+        },
+        {
+          "date": "1978 - 1983",
+          "title": "Университет",
+          "paragraphs": [
+            "Студентка Белорусского Государственного Университета Информатики и Радиоэлектроники"
+          ]
+        },
+        {
+          "date": "2017",
+          "title": "ЮНЕСКО",
+          "paragraphs": [
+            "Награждена дипломом ЮНЕСКО"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "mainImage": "http://fotografika.su/wp-content/uploads/2018/06/tkt-001-portrait-photo-by-kate-pryanik_800800.jpg",
+      "name": "Татьяна Ткачёва",
+      "birthday": "Unknown",
+      "details": "Независимый журналист, работающий с документальной фотографией, видео, архивом и мультимедиа. Родом из Могилевской области (Беларусь), в настоящее время проживает в Минске. Татьяна окончила Белорусский государственный университет культуры и искусств по специальности «Культурология» в 2014 году и Академию документальной фотографии и фотожурналистики «Фотографика» в Санкт-Петербурге, Россия, в 2016 году. Она преподает фотожурналистику в Международном образовательном центре Йоханнеса Рау. (Минск, Беларусь). Самая важная часть ее профессиональной деятельности посвящена личным, долгосрочным проектам, которые сосредоточены на правах женщин, особенно на темах гендерного насилия, конфликтов и сопротивления. Также Татьяна Ткачева работает с темами границ, идентичности и изоляции. Татьяна неоднократно становилась победительницей различных конкурсов. Она является лауреатом World Press Photo 2020 и других. Татьяна работает с белорусскими и зарубежными СМИ, включая Takie Dela, The Guardian, Der Spiegel, De Volkskrant, Meduza.io, Esquire.ru, Ostpol.",
+      "gallery": [
+        "http://tkachova.com/wp-content/uploads/2018/03/TKT_Malostovka_002.jpg",
+        "http://tkachova.com/wp-content/uploads/2018/03/TKT_Malostovka_003.jpg",
+        "http://tkachova.com/wp-content/uploads/2018/03/TKT_Malostovka_004.jpg",
+        "http://tkachova.com/wp-content/uploads/2018/03/TKT_Malostovka_005.jpg",
+        "http://tkachova.com/wp-content/uploads/2018/03/TKT_Malostovka_008-1.jpg"
+      ],
+      "map": {
+        "x": "53.902284",
+        "y": "27.561831"
+      },
+      "videoId": "Ii1FilR9jfE",
+      "timeline": [
+        {
+          "date": "2010 - 2014",
+          "title": "Награда",
+          "paragraphs": [
+            "Получила степень культуролога Белорусского государственного университета культуры и искусств."
+          ]
+        },
+        {
+          "date": "2017 - 2018",
+          "title": "Преподавание",
+          "paragraphs": [
+            "Преподаватель курса фотожурналистики Белорусской ассоциации журналистов."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "mainImage": "https://takiedela.ru/wp-content/uploads/2016/03/photo-190x190.jpg",
+      "name": "Александр Васюкович",
+      "birthday": "1985",
+      "details": "Независимый фотограф из Минска, Беларусь. Родился в 1985 году в Минске. Карьеру фотожурналиста начал в 2011 году.",
+      "gallery": [
+        "https://birdinflight.imgix.net/wp-content/uploads/2016/11/vasyukovich_06.jpg?fm=pjpg&q=70&fit=crop&crop=faces&w=1700",
+        "https://birdinflight.imgix.net/wp-content/uploads/2016/11/vasyukovich_09.jpg?fm=pjpg&q=70&fit=crop&crop=faces&w=1920",
+        "https://birdinflight.imgix.net/wp-content/uploads/2016/11/vasyukovich_04.jpg?fm=pjpg&q=70&fit=crop&crop=faces&w=1700",
+        "https://birdinflight.imgix.net/wp-content/uploads/2016/11/vasyukovich_03.jpg?fm=pjpg&q=70&fit=crop&crop=faces&w=1700",
+        "https://birdinflight.imgix.net/wp-content/uploads/2016/11/vasyukovich_02.jpg?fm=pjpg&q=70&fit=crop&crop=faces&w=1700"
+      ],
+      "map": {
+        "x": "53.902284",
+        "y": "27.561831"
+      },
+      "videoId": "QGSoH6MhuDw",
+      "timeline": [
+        {
+          "date": "2003 - 2008",
+          "title": "Образование",
+          "paragraphs": [
+            "Академия государственного управления при Президенте Республики Беларусь."
+          ]
+        },
+        {
+          "date": "2018",
+          "title": "Награда",
+          "paragraphs": [
+            "Финалист конкурса Direct Look. Москва, Россия "
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "mainImage": "https://upload.wikimedia.org/wikipedia/ru/thumb/6/68/Parfenok.jpg/274px-Parfenok.jpg",
+      "name": "Владимир Парфенок",
+      "birthday": "1958",
+      "details": "Моё фотографическое крещение произошло лет 15 назад -- в середине 80-ых годов уже прошлого столетия... Это было время, когда в советской фотографии происходили бурные перемены -- во многом благодаря предперестроечному брожению умов интеллигенции и неукратимой энергии неформальной молодёжи. Фотография неожиданно для многих из нас стала тем легкодоступным инструментом, с помощью которого можно было свободно (и бесконтрольно!) проводить \"вивисекцию\" своего собственного и общественного сознания, подвергать критическому анализу устоявшиеся (или навязанные) жизненные ценности. Многие профессиональные художники в то время лишь мечтали о свободе творчества, а мы, так называемые \"независимые фотографы\", попросту ею жили...",
+      "gallery": [
+        "http://www.parfianok.com/photo-01/landscape2-1986-120h.jpg",  
+        "http://www.parfianok.com/photo-02/frag-beeing-18-h130.jpg",  
+        "http://www.parfianok.com/photo-05/here-08-195.jpg",  
+        "http://www.parfianok.com/photo-03/war-04-160x153.jpg",  
+        "http://www.parfianok.com/photo-13/13-denmark-170.jpg"
+      ],
+      "map": {
+        "x": "53.93086679359381",
+        "y": "27.596411771859007"
+      },
+      "videoId": "EX_fVFPdDoY",
+      "timeline": [
+        {
+          "date": "1958",
+          "title": "День рождения",
+          "paragraphs": [
+            
+          ]
+        },
+        {
+          "date": "Середина 80-х",
+          "title": "Начало",
+          "paragraphs": [
+            "В творческой фотографии с середины 1980-х гг. Фотографии обучался в студии Валерия Лобко. Участвовал в многочисленных выставочных проектах в Беларуси и за рубежом. Создатель и куратор проектов галереи «NOVA». В фотографии — сторонник аналоговых технологий и ручной печати. В настоящее время работает в Центре современных искусств."
+          ]
+        },
+        {
+          "date": "Настоящее время",
+          "title": "Место работы",
+          "paragraphs": [
+            "Работает в Центре Современных Искусств в Минске."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "mainImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Aniempadystau_Michal_2012.jpg/274px-Aniempadystau_Michal_2012.jpg",
+      "name": "Виктор Бутра",
+      "birthday": "7 апреля 1944",
+      "details": "Известный и один из самых интересных белорусских фотографов, член Народного фотоклуба \"Минск\". Участник многочисленных фотосалонов и выставок, живет и работает в столице Беларуси. Между тем творчество Виктора Бутра можно назвать практически неизведанным, а его вклад в развитие мировой фотографии до сих пор совершенно не оценен.",
+      "gallery": [
+        "http://www.rosphoto.com/images/u/articles/1506/0de5675a51f36eorig.jpg",  
+        "http://www.rosphoto.com/images/u/articles/1506/0de56a1366d346orig.jpg",  
+        "http://www.rosphoto.com/images/u/articles/1506/0de568e7a95133orig.jpg",  
+        "http://www.rosphoto.com/images/u/articles/1506/0de570b99e9064orig.jpg",  
+        "https://rosphoto.com/images/u/articles/1506/0de5f6a41810a4orig.jpg"
+      ],
+      "map": {
+        "x": "56.461208363618915",
+        "y": "53.79800432978688"
+      },
+      "videoId": "CrEEjTs2uFc",
+      "timeline": [
+        {
+          "date": "7 апреля 1944",
+          "title": "День рождения",
+          "paragraphs": [
+            "Родился в Сарапуле, СССР"
+          ]
+        },
+        {
+          "date": "1961 - 1963",
+          "title": "Образование",
+          "paragraphs": [
+            "Учился на факультете медицины в Рижском Медицинском институте."
+          ]
+        },
+        {
+          "date": "1963 - 1968",
+          "title": "Образование",
+          "paragraphs": [
+            "Учился на факультете медицины в Витебском Медицинском институте."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "mainImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Yuri_Vasyliev.jpg/274px-Yuri_Vasyliev.jpg",
+      "name": "Юрий Васильев",
+      "birthday": "25 апреля 1939",
+      "details": "Представлял Республику Беларусь и Минский фотоклуб в жюри на более 50 фотовыставках. Почетный член фотоклуба «Радуга» (1982, Могилев), почетный член Народной фотостудии «Рига» (1977, Рига), почетный член Союза фотохудожников Литвы. В 1992 году Юрию Сергеевичу присвоено звание \"Заслуженный работник культуры Республики Беларусь\". Почетный член Белорусской ассоциации фотохудожников. С начала 80-х до 2013 года он участвовал в международных фото семинарах в Ниде, Литва.",
+      "gallery": [
+        "https://znyata.com/images/stories/news2018/vasilev10.jpg",  
+        "https://znyata.com/images/stories/news2018/vasilev6.jpg",  
+        "https://znyata.com/images/stories/news2018/vasile6.jpg",  
+        "https://znyata.com/images/stories/news2018/vasilev17.jpg",  
+        "https://znyata.com/images/stories/news2018/vasilev5.jpg"
+      ],
+      "map": {
+        "x": "53.902284",
+        "y": "27.561831"
+      },
+      "videoId": "_uCumqOYYlM",
+      "timeline": [
+        {
+          "date": "25 апреля 1939",
+          "title": "День рождения",
+          "paragraphs": [
+            "Родился в Петрокрепости, СССР"
+          ]
+        },
+        {
+          "date": "1965",
+          "title": "Фотоклуб \"Минск\"",
+          "paragraphs": [
+            "Член фотоклуба \"Минск\" с этого времени"
+          ]
+        },
+        {
+          "date": "1961 - 2004",
+          "title": "Работа",
+          "paragraphs": [
+            "Работал на инженерных должностях по специальности."
+          ]
+        }
+      ]
+    }
+  ]
+}
