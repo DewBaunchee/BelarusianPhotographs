@@ -4,10 +4,10 @@ import MainPage from "./pages/MainPage";
 import SearchPage from "./pages/SearchPage";
 import PhotographPage from "./pages/PhotographPage";
 
-import {CustomNavbar} from "./pages/components/CustomNavbar";
-import CustomFooter from "./pages/components/CustomFooter";
+import {CustomNavbar} from "./pages/components/customNavbar/CustomNavbar";
+import CustomFooter from "./pages/components/customFooter/CustomFooter";
 
-import {HashRouter, Switch, Route} from "react-router-dom";
+import {HashRouter, Route, Switch} from "react-router-dom";
 import {useTranslation} from "react-i18next";
 import {Redirect} from "react-router";
 
@@ -47,6 +47,8 @@ const App = () => {
                         <Route exact={true} path={"/photograph/:id"}
                                render={(props) => <PhotographPage {...props}/>}/>
                         <Redirect from="/photographOfTheDay" to={"/photograph/" + photographOfTheDayId}/>
+                        <Route exact={true} path={"/dewbaunchee"} component={() => window.location.href = "https://github.com/DewBaunchee"}/>
+                        <Route exact={true} path={"/grioool"} component={() => window.location.href = "https://github.com/Grioool"}/>
                     </Switch>
 
                     <CustomFooter/>

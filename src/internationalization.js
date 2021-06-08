@@ -8,6 +8,9 @@ i18next
     .use(Cache)
     .use(initReactI18next)
     .init({
+        backend: {
+            loadPath: process.env.PUBLIC_URL + "/locales/{{lng}}/translation.json"
+        },
         fallbackLng: 'en',
         debug: true,
         returnObjects: true,

@@ -1,12 +1,11 @@
 import {Col, Row} from "react-bootstrap";
-import BlockHeader from "./components/BlockHeader";
-import './styles/PhotographPage.css'
-import CustomButton from "./components/CustomButton";
-import CustomTimeLine from "./components/CustomTimeLine";
 import {Map, Placemark, YMaps} from "react-yandex-maps";
-import YouTube from "react-youtube";
 import {useTranslation} from "react-i18next";
-import CustomGallery from "./components/CustomGallery";
+import YouTube from "react-youtube";
+import BlockHeader from "./components/blockHeader/BlockHeader";
+import CustomTimeLine from "./components/timeline/CustomTimeLine";
+import CustomGallery from "./components/gallery/CustomGallery";
+import './styles/PhotographPage.css'
 
 const PhotographPage = (props) => {
     const {t} = useTranslation();
@@ -24,7 +23,7 @@ const PhotographPage = (props) => {
     const photographInfo = getPhotographInfo(props.match.params.id);
     if (!photographInfo) {
         return (
-            <div>
+            <Row>
                 <Row className={"justify-content-center"}>
                     <Col style={{
                         textAlign: "center",
@@ -35,16 +34,16 @@ const PhotographPage = (props) => {
                         {t("notFound")}
                     </Col>
                 </Row>
-            </div>
+            </Row>
         );
     }
 
     return (
-        <div>
-            <div className="row photograph-info-container">
+        <Row>
+            <Row className="photograph-info-container">
                 <Row>
                     <Col md={"6"}>
-                        <img className="img-fluid" src={photographInfo.mainImage}
+                        <img className="img-fluid col-12" src={photographInfo.mainImage}
                              alt="Photograph of the day"/>
                     </Col>
                     <Col className="photograph-info-article">
@@ -59,24 +58,19 @@ const PhotographPage = (props) => {
                         </p>
                     </Col>
                 </Row>
-            </div>
+            </Row>
 
-            <div className="row gallery-container">
+            <Row className="gallery-container">
                 <BlockHeader className="gallery-header" value={t("galleryTitle")}/>
                 <CustomGallery photos={photographInfo.gallery}/>
-                <Row className="justify-content-center mt-3">
-                    <Col className="justify-content-center" lg="2" sm="4">
-                        <CustomButton value={t("viewAll")} className="gallery-button"/> {/* TODO delete*/}
-                    </Col>
-                </Row>
-            </div>
+            </Row>
 
-            <div className="row timeline-container">
+            <Row className="timeline-container">
                 <BlockHeader value={t("timelineTitle")}/>
                 <CustomTimeLine items={photographInfo.timeline}/>
-            </div>
+            </Row>
 
-            <div className="row map-container justify-content-center">
+            <Row className="map-container justify-content-center">
                 <BlockHeader value={t("workPlaceTitle")}/>
                 <Col lg={"10"} style={{height: "500px"}}>
                     <YMaps>
@@ -91,9 +85,9 @@ const PhotographPage = (props) => {
                         </Map>
                     </YMaps>
                 </Col>
-            </div>
+            </Row>
 
-            <div className="row video-container justify-content-center">
+            <Row className="video-container justify-content-center">
                 <BlockHeader value={t("videoAboutTitle")}/>
                 <Col lg={"10"}>
                     <YouTube
@@ -104,8 +98,8 @@ const PhotographPage = (props) => {
                         }}
                     />
                 </Col>
-            </div>
-        </div>
+            </Row>
+        </Row>
     );
 }
 
