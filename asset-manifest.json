@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/BelarusianPhotographs/static/css/main.44e9e58a.chunk.css",
-    "main.js": "/BelarusianPhotographs/static/js/main.29105c55.chunk.js",
-    "main.js.map": "/BelarusianPhotographs/static/js/main.29105c55.chunk.js.map",
+    "main.css": "/BelarusianPhotographs/static/css/main.a1dce836.chunk.css",
+    "main.js": "/BelarusianPhotographs/static/js/main.3bdf42b0.chunk.js",
+    "main.js.map": "/BelarusianPhotographs/static/js/main.3bdf42b0.chunk.js.map",
     "runtime-main.js": "/BelarusianPhotographs/static/js/runtime-main.5c8ed8b2.js",
     "runtime-main.js.map": "/BelarusianPhotographs/static/js/runtime-main.5c8ed8b2.js.map",
     "static/css/2.550f5bbd.chunk.css": "/BelarusianPhotographs/static/css/2.550f5bbd.chunk.css",
-    "static/js/2.85ca03ea.chunk.js": "/BelarusianPhotographs/static/js/2.85ca03ea.chunk.js",
-    "static/js/2.85ca03ea.chunk.js.map": "/BelarusianPhotographs/static/js/2.85ca03ea.chunk.js.map",
+    "static/js/2.f461a6bd.chunk.js": "/BelarusianPhotographs/static/js/2.f461a6bd.chunk.js",
+    "static/js/2.f461a6bd.chunk.js.map": "/BelarusianPhotographs/static/js/2.f461a6bd.chunk.js.map",
     "index.html": "/BelarusianPhotographs/index.html",
     "static/css/2.550f5bbd.chunk.css.map": "/BelarusianPhotographs/static/css/2.550f5bbd.chunk.css.map",
-    "static/css/main.44e9e58a.chunk.css.map": "/BelarusianPhotographs/static/css/main.44e9e58a.chunk.css.map",
-    "static/js/2.85ca03ea.chunk.js.LICENSE.txt": "/BelarusianPhotographs/static/js/2.85ca03ea.chunk.js.LICENSE.txt",
+    "static/css/main.a1dce836.chunk.css.map": "/BelarusianPhotographs/static/css/main.a1dce836.chunk.css.map",
+    "static/js/2.f461a6bd.chunk.js.LICENSE.txt": "/BelarusianPhotographs/static/js/2.f461a6bd.chunk.js.LICENSE.txt",
     "static/media/getFetch.cjs": "/BelarusianPhotographs/static/media/getFetch.d7d6010d.cjs",
     "static/media/MainPage.css": "/BelarusianPhotographs/static/media/mainPageMainPicture.683a67b0.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5c8ed8b2.js",
     "static/css/2.550f5bbd.chunk.css",
-    "static/js/2.85ca03ea.chunk.js",
-    "static/css/main.44e9e58a.chunk.css",
-    "static/js/main.29105c55.chunk.js"
+    "static/js/2.f461a6bd.chunk.js",
+    "static/css/main.a1dce836.chunk.css",
+    "static/js/main.3bdf42b0.chunk.js"
   ]
 }
